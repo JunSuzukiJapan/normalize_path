@@ -1,0 +1,6 @@
+[package]
+name = "normalize_path"
+version = "0.1.0"
+authors = ["JunSuzukiJapan <jun.suzuki.japan@gmail.com>"]
+
+[dependencies]
